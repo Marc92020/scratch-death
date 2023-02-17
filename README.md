@@ -1,2 +1,1 @@
-# scratch-death
-look in issues.
+hi :)
